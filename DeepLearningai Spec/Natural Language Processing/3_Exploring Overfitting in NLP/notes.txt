@@ -1,0 +1,4 @@
+Dataset yang digunakan sekitar ~570Mb dengan rincian
+
+"glove.6B.100d.txt" dengan ukuran  ~338.9Mb
+"training_cleaned.csv" dengan ukuran ~233.3Mb
